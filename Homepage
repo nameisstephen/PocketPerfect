@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PocketPerfect | Smart Deals & Study Picks</title>
+  <meta name="description" content="PocketPerfect helps you find the best study material for Class 10, watches, and electronics at pocket-friendly prices.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER / LOGO -->
+<header class="top-header">
+  <div class="logo">
+    <span class="pocket">Pocket</span><span class="perfect">Perfect</span>
+  </div>
+  <p class="tagline">Smart Choices • Perfect for Your Pocket</p>
+</header>
+
+<!-- NAVIGATION -->
+<nav class="navbar">
+  <a href="index.html">Home</a>
+  <a href="study.html">Study Material</a>
+  <a href="watches.html">Watches</a>
+  <a href="electronics.html">Electronics</a>
+</nav>
+
+<!-- HERO SECTION -->
+<section class="hero">
+  <h2>Best Products Without Overpaying</h2>
+  <p>We research and recommend quality products so you can save money and time.</p>
+</section>
+
+<!-- CATEGORY CARDS -->
+<section class="categories">
+
+  <div class="card">
+    <h3>📘 Best Study Material for Class 10</h3>
+    <p>NCERT, Exemplar, Sample Papers & reference books.</p>
+    <a href="study.html" class="btn">Explore</a>
+  </div>
+
+  <div class="card">
+    <h3>⌚ Best Watch Deals</h3>
+    <p>Smartwatches & analog watches at the best value.</p>
+    <a href="watches.html" class="btn">Explore</a>
+  </div>
+
+  <div class="card">
+    <h3>🔌 Best Electronic Deals</h3>
+    <p>Useful gadgets and accessories under budget.</p>
+    <a href="electronics.html" class="btn">Explore</a>
+  </div>
+
+</section>
+
+<!-- TRUST SECTION -->
+<section class="trust">
+  <h2>Why PocketPerfect?</h2>
+  <ul>
+    <li>✔ Honest & handpicked recommendations</li>
+    <li>✔ No fake discounts or misleading prices</li>
+    <li>✔ Pocket-friendly choices for students</li>
+  </ul>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>As an Amazon Associate, PocketPerfect earns from qualifying purchases.</p>
+  <p>© 2025 PocketPerfect</p>
+</footer>
+
+</body>
+</html>
